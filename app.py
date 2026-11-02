@@ -13,7 +13,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("✈️ Aircraft Performance Calculator")
+st.title("✈️ Aircraft Performance Calculator- kartik sumit nawab")
 st.write("Aircraft performance calculations based on your Sem5 notebook.")
 
 # --------------------------------------------------
